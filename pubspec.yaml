@@ -39,6 +39,7 @@ dependencies:
 
   expense_repository:
     path: packages/expense_repository
+  firebase_analytics: ^10.10.7
 
 dev_dependencies:
   flutter_test:
